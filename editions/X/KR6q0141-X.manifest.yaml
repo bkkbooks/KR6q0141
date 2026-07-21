@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0141_000-X.yaml, hash: 'sha256:8ca9fb352561422e99917242e6f7ee67ce5b442518f1cc3e3008c2398d78eac4'}
+  - {seq: 0, filename: KR6q0141_000-X.yaml, hash: 'sha256:63c334d65fe15ce636f4b4a2cbcf3f3608c58c98be40d92397036b7b1f9ea929'}
   - {seq: 1, filename: KR6q0141_001-X.yaml, hash: 'sha256:b48461a5e941b3751ae0f9d1621eb87c63efaa64864b488265fd9b4ae7b6a15b'}
   - {seq: 2, filename: KR6q0141_002-X.yaml, hash: 'sha256:26001da65e8fc6bfa04ee06d529f68587b6c2f8c2cde970fdf361d2b244a61ab'}
   - {seq: 3, filename: KR6q0141_003-X.yaml, hash: 'sha256:b02050a96788cdc653886449bd5bc6cd47b1de7ee3b325896654e39f489cd161'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0141_009-X.yaml, hash: 'sha256:1543b8722994b18723ccd90d068b7c6678b25b877f02e6bdc3af50cfe03b8011'}
   - {seq: 10, filename: KR6q0141_010-X.yaml, hash: 'sha256:901c94d5bc29275aaf5e08470dc692b247769fc148f97262c849984e47a98d1f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0141_000-X.markers.yaml, hash: 'sha256:bbe3f107df82718818a32fbe784f5627ab1d577920dc0f902c78c3c0f7d77e70'}
+  - {seq: 0, role: markers, filename: assets/KR6q0141_000-X.markers.yaml, hash: 'sha256:d992ee29b9748f314258dee8d0bd9ff7609b1c13c248dc4ccdbcceba8bc25db3'}
   - {seq: 1, role: markers, filename: assets/KR6q0141_001-X.markers.yaml, hash: 'sha256:5a5d2cf92b58f20a5d4433e341862fb86a88a47e82c24dd61bbe200571172c4f'}
   - {seq: 2, role: markers, filename: assets/KR6q0141_002-X.markers.yaml, hash: 'sha256:a40962f021d8ded8b6ade8c0a7e7d0007e73d25357a063d6b13ff5c642dd1138'}
   - {seq: 3, role: markers, filename: assets/KR6q0141_003-X.markers.yaml, hash: 'sha256:2e9338e063cdc1595b8d22f0429880dce761dddf640358535b47687e57cdb90b'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0141_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1250-A
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0141_X_000-mulu-2
     span:
-    - front
+    - body
     - 238
     - 238
   label: No. 1250-B
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0141_X_000-mulu-3
     span:
-    - front
+    - body
     - 691
     - 691
   label: 禪林備用清規卷目
@@ -1903,4 +1903,4 @@ table_of_contents:
   label: No. 1250-D
   type: mulu
   level: 1
-hash: sha256:b59affe005af645f980d9f467e3bd3fa26d608d036d735d5af0bb16781b91781
+hash: sha256:932fff62df976dc9fbfb99af0fa0fe3c023f3c6879678d07190795684f4800d3
